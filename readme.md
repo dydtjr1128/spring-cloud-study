@@ -51,6 +51,9 @@ Netflix Hystrix등이 이에 속합니다.
 3.zuul 
 
 
+## Sample Image
+![image](https://user-images.githubusercontent.com/19161231/95181641-863a7e00-07fe-11eb-8334-ea501ed2d5da.png)
+
 
 ### 참조
 
